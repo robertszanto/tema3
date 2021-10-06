@@ -115,6 +115,12 @@ public class Main {
         System.out.println(edy.obtineIdentificator(edy.getFirstName(), edy.getLastName()));
 
         //TODO BONUS: Realizeaza un test Junit care sa valideze valorile unor instante ale clasei Persoana
+
+
+
+
+
+
     }
 
 }
